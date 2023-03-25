@@ -1,0 +1,7 @@
+language: 'typescript'
+type: 'application'
+platform: 'node'
+
+tasks:
+  dev:
+    command: 'pnpm dev'

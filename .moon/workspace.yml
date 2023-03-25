@@ -17,7 +17,7 @@ vcs:
 
 projects:
   - 'apps/server'
-  -  'apps/client'
+  - 'apps/client'
 #  - 'packages/*'
 
 
